@@ -45,3 +45,4 @@ REPO_ROOT=プロジェクトのルートになるようなので、その想定�
 
 ## 参考サイト
 https://satoshun.github.io/2021/02/kmm-cocoapods-external-source/
+https://www.rubydoc.info/github/CocoaPods/Core/Pod
