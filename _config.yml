@@ -84,3 +84,6 @@ deploy:
   token: '$GITHUB_TOKEN'
   ignore_hidden: false
   ignore_pattern: regexp
+
+sitemap:
+    path: sitemap.xml
